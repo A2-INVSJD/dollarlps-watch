@@ -1,0 +1,2 @@
+BCH_API_BASE_URL=https://bchapi-am.azure-api.net/api/v1
+BCH_API_KEY=386352524bae4ac387c4a8ba80cd0ed8
