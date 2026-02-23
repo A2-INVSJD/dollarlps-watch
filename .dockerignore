@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.env*
+key-bch.txt
+*.md
+.gemini
+bch-api-docs
+bch_list_all_indicators.csv
